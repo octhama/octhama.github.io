@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed14aa99-cf79-4f35-95da-7c893cfbc2ec" name="Changes" comment="update" />
+    <list default="true" id="ed14aa99-cf79-4f35-95da-7c893cfbc2ec" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octhama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octhama.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +35,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="85f23517-9afa-412a-8350-6bb6f16bb23f" />
-        <option name="url" value="https://github.com/octhvmv/octhama.git" />
+        <option name="url" value="https://github.com/octhama/octhama.github.io.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -68,7 +73,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20240226_0001",
+    "com.google.cloudcode.ide_session_index": "20240226_0002",
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "last_opened_file_path": "/Users/kuassitehou/Documents/GitHub/octhama.github.io",
@@ -135,6 +140,7 @@
       <workItem from="1708875678564" duration="3438000" />
       <workItem from="1708909406442" duration="2542000" />
       <workItem from="1708940057241" duration="474000" />
+      <workItem from="1708940548241" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1675198438707</created>
@@ -151,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708940261624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1708940583360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708940583361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
